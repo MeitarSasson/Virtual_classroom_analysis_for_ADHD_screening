@@ -1,0 +1,13 @@
+bayesian_optimization
+CouchDB
+customtkinter
+imbalanced_learn
+imblearn
+matplotlib
+numpy
+pandas
+scikit_learn
+tk
+ttkbootstrap
+ttkthemes
+xgboost
